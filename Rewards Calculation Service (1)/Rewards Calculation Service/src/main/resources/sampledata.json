@@ -1,0 +1,22 @@
+[
+  {
+    "custID": 123,
+    "dlrSpent": 105,
+    "month": "AUG"
+  },
+  {
+    "custID": 123,
+    "dlrSpent": 555,
+    "month": "AUG"
+  },
+  {
+    "custID": 456,
+    "dlrSpent": 235,
+    "month": "AUG"
+  },
+  {
+    "custID": 789,
+    "dlrSpent": 955,
+    "month": "AUG"
+  }
+]

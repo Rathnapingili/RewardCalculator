@@ -1,0 +1,5 @@
+web\api\assessment\exception\DataException.class
+web\api\assessment\controller\RewardsCalculatorController.class
+web\api\assessment\service\RewardsCalculatorService.class
+web\api\assessment\model\Transactions.class
+web\api\assessment\RewardsCalculator.class
